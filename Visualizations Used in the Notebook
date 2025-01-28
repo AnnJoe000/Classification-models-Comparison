@@ -1,0 +1,17 @@
+1️⃣ Confusion Matrices:
+      Displayed for each model to show the distribution of true positives, false positives, true negatives, and false negatives.
+      This helped in understanding where the models made correct and incorrect predictions.
+2️⃣ Accuracy Comparison Bar Plot:
+      A bar plot to compare the accuracy scores of the five classification models.
+      Provided a clear view of which models performed better in terms of accuracy.
+3️⃣ Classification Report Visualization:
+      Plotted the weighted average precision, recall, and f1-scores for all models to visually assess their performance.
+      The bar plot visualization made it easy to identify the top-performing model.
+4️⃣ Heatmap for Correlation:
+      Displayed the correlation between features of the dataset.
+      Helped in identifying relationships between features, which can inform feature selection and interpretation.
+
+
+Impact of Visualizations
+    The visualizations made it easier to interpret the models' performance and provided a comprehensive understanding of the dataset's characteristics.
+    The plots for classification reports and accuracy were particularly effective in demonstrating why Random Forest was the best model and why k-NN struggled.
